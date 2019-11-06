@@ -1,0 +1,15 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "ed3ccf08-ddf0-4f15-b927-f0a9a01a39eb"
+	},
+	"author": "Kristoffer Lundberg"
+}
